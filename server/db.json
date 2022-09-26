@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "Godzilla Gulp",
+        "picture": "asdf1.jpg",
+        "flavor": "Uranium Blast",
+        "likes": 0
+    },
+    {
+        "id": 2,
+        "name": "Mothra's Medicine",
+        "picture": "asdf2.jpg",
+        "flavor": "Nuclear Tangent",
+        "likes": 0
+    },
+    {
+        "id": 3,
+        "name": "King Kong Smash", 
+        "picture": "asdf3.jpg",
+        "flavor": "Orange Banana",
+        "likes": 0
+    }
+
+]
