@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kaijuice</title>
+    <link rel="stylesheet" href="./index.css">
+</head>
+<body>
+
+    <header>
+        <h1>Kaijuice</h1>
+        <h2>King of Energy</h2>
+    </header>
+
+    <main>
+        <h3>Available Drinks</h3>
+        <section id="drinkDisplay"></section>
+
+        <section id="suggestionBox">
+            <h3>What drink would you like to see?</h3>
+            <input id='nameInput' placeholder="Name"/>
+            <input id='flavorInput' placeholder="Flavor"/>
+            <input id='imageInput' placeholder="Image URL"/>
+            <button id="addDrink">Submit</button>
+        </section>
+    </main>
+    
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="./index.js"></script>
+</body>
+</html>

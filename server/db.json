@@ -2,21 +2,21 @@
     {
         "id": 1,
         "name": "Godzilla Gulp",
-        "picture": "asdf1.jpg",
+        "picture": "../client/pictures/kaijuice1.png",
         "flavor": "Uranium Blast",
         "likes": 0
     },
     {
         "id": 2,
         "name": "Mothra's Medicine",
-        "picture": "asdf2.jpg",
+        "picture": "../client/pictures/mothra2.png",
         "flavor": "Nuclear Tangent",
         "likes": 0
     },
     {
         "id": 3,
         "name": "King Kong Smash", 
-        "picture": "asdf3.jpg",
+        "picture": "../client/pictures/kingKong2.png",
         "flavor": "Orange Banana",
         "likes": 0
     }
